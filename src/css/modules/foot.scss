@@ -1,0 +1,15 @@
+#foot{
+    background: $defaultColor;
+    height: 300px;
+    ul{
+        display: flex;
+        justify-content: space-around;
+        color: white;
+        font-size: 20px;
+        padding: 20px;
+    }
+    i{
+        font-size: 20px;
+ 
+    }
+}
