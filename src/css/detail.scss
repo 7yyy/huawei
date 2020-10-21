@@ -11,6 +11,7 @@
         width:450px;
         height: 450px;
         position: relative;
+        margin-left: 10%;
         .detail_gallery_normal{
             position: relative;
             @include wh100;
@@ -18,7 +19,7 @@
                 @include posLT;
                 width:200px;
                 height:200px;
-                background:rgba(255,255,0,.5);
+                background:#00f7ff80;
                 border:1px #ccc solid;
                 display: none;
             }
@@ -26,9 +27,9 @@
         }
         .detail_gallery_large{
             position: absolute;
-            left:100%;
-            top:0;
-            border:1px black solid;
+            left:110%;
+            top:10%;
+            border:1px gray solid;
             width:350px;
             height:350px;
             overflow: hidden;
@@ -46,7 +47,7 @@
             display: flex;
             align-items: center;
             .detail_message_price{ font-size:30px; color:red; margin-left:30px;}
-            .detail_message_box{ border:1px red solid; padding:5px 10px; margin-left:30px; cursor: pointer;}
+            .detail_message_box{ border:1px #0dff00 solid; padding:5px 10px; margin-left:30px; cursor: pointer;}
             .active{ border:2px red solid; font-weight: bold;}
         }
         .detail_message_num{
