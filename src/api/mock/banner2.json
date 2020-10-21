@@ -1,0 +1,18 @@
+{
+    "type" : "banner",
+    "code" : 0,
+    "banner_list" : [
+        {
+            "imgUrl" : "https://res2.vmallres.com/shopdc/pic/c4f5fa14-d078-4243-bcf0-3cb507c5641a.jpg",
+            "imgLink" : "https://sale.vmall.com/honor.html"
+        },
+        {
+            "imgUrl" : "https://res5.vmallres.com/shopdc/pic/eb2b323a-6ed9-4dd8-91ae-02f42bb6746f.jpg",
+            "imgLink" : "https://sale.vmall.com/honor.html"
+        },
+        {
+            "imgUrl" : "https://res5.vmallres.com/shopdc/pic/79497df3-e489-4ae7-9284-f97e28563c14.jpg",
+            "imgLink" : "https://sale.vmall.com/honor.html"
+        }
+    ]
+}
